@@ -1,4 +1,0 @@
-# Modify this to enable dt overlays (see README for further information)
-
-# Select device tree (DO NOT MODIFY)
-fdtfile=rockchip/rk3566-panther-x2.dtb
